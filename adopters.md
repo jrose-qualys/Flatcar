@@ -111,3 +111,9 @@ Users
       D: The largest Norwegian government agency has been using Flatcar since 2021 to run all of their on-prem Kubernetes clusters enabling application teams to become more autonomous and to build better welfare services and deliver them with a higher velocity then before.
       L: https://nais.io
       C: hans.kristian.flaatten@nav.no
+
+      N: Qualys, Inc.
+      D: Qualys Gateway Service uses Flatcar Container Linux as a base to offer mainly proxy server and caching capabilities to serve other sensors such as Cloud Agent, Scanner and Passive Sensor. QGS also supports our cloud platform modules, including VMDR, Patch Management and Policy Compliance.
+      L: https://www.qualys.com 
+      C: jrose [at] qualys [dot] com
+      
